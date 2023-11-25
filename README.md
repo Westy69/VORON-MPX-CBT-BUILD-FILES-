@@ -28,7 +28,7 @@ I am in the process of compliling a set of files which will make building a bree
 in the form of a Wiki page rich full of pics and links to all the files and configs etc.
 
 ## Sensorless homing Guides:
-I Do the Voron on efor hte baseline and then refine it with the Klipper version:
+I Do the Voron on for the baseline and then refine it with the Klipper version:
 * Clees Version https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
 
   Then this one
