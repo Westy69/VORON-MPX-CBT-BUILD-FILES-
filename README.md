@@ -27,6 +27,10 @@ https://github.com/Esoterical/voron_canbus
 
 ## ADXL345 Accellerometer  (if you want to get the most out of your machine for imput shaping   https://github.com/bigtreetech/ADXL345
 
+## INPUT SHAPING AUTOMATION WITH KLIPPAIN
+https://github.com/Frix-x/klippain/blob/main/docs/features/is_workflow.md
+
+
 I am in the process of compiling a set of files which will make building a breeze
 in the form of a Wiki page rich full of pics and links to all the files and configs etc.
 
