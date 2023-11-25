@@ -11,20 +11,23 @@
 * https://mpx.wiki/flash-m8p-and-ebb-sb-toolboard
 * https://mpx.wiki/sensorless-homing-on-m8p
 * https://mpx.wiki/flash_canboot_and_klipper_to_ebb
-* Configure CaBus with U2C https://mpx.wiki/flash_canboot_and_klipper_to_ebb
+* Configure CanBus with U2C https://mpx.wiki/flash_canboot_and_klipper_to_ebb
   
 
 ### BIG TREE TECH FILES AND RESOURCES FOR THE MPX CBT VORON BUILD
 
-## CB1  (Rasperry Pi REplacement slot in board manuals and firmware - get em here from BTT  https://github.com/bigtreetech/CB1
+## CB1  (Rasperry Pi Replacement slot in board manuals and firmware - get em here from BTT  https://github.com/bigtreetech/CB1
 
 ## Manta M8P  manuals and firmware - get em here from BTT  https://github.com/bigtreetech/Manta-M8P
 
 ## EBB SB2209 CAnBus Board manuals and firmware - get em here from BTT https://github.com/bigtreetech/EBB
 
+## CANBUS Guides  ESOTERICAL
+https://github.com/Esoterical/voron_canbus
+
 ## ADXL345 Accellerometer  (if you want to get the most out of your machine for imput shaping   https://github.com/bigtreetech/ADXL345
 
-I am in the process of compliling a set of files which will make building a breeze
+I am in the process of compiling a set of files which will make building a breeze
 in the form of a Wiki page rich full of pics and links to all the files and configs etc.
 
 ## Sensorless homing Guides:
